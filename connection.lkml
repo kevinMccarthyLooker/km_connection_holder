@@ -1,1 +1,1 @@
-connection: "thelook_events_redshift"
+connection: "snowlooker"
